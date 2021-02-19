@@ -1,0 +1,120 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background-size: cover;
+  background-image: url(header.jpg);
+}
+
+
+html {
+
+  font-size: 150%;
+  line-height: 1.4;
+}
+
+body {
+  margin: 0;
+  margin-right: 20px;
+}
+
+
+hr {
+  border-color: beige;
+  border-width: 3px;
+}
+
+.align-items-center {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+/*  vertical-align: center;*/
+}
+
+.btn-outline-primary{
+  color: beige;
+  justify-content: center;
+  border-color: beige;
+}
+.btn-outline-primary:hover {
+  border-color:beige; 
+  background-color: beige;
+  background-image: url(gaugan_output.jpg);
+}
+
+/*.viewport-header {
+  position: relative;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}*/
+
+/*h1 {
+	position: relative;
+	font-family: 'Syncopate', sans-serif;
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 1.05rem;
+	line-height: 1.6rem;
+	font-size: 1.05rem;
+	text-align: center;
+	text-align: center;
+	display: flex;
+}*/
+  /*span {
+    display: block;
+    font-size: 10rem;
+    letter-spacing: -1.3rem;
+  }*/
+
+
+/*main {
+  background: rgba(black, 0.66);
+  color: white;
+  position: relative;
+  padding: 1rem;
+  }
+  p {
+    max-width: 600px;
+    margin: 1rem auto;
+  }*/
+
+ /*.btn {
+ 	position: absolute;
+  	font-weight: 700;
+  	border-radius: 30px; 
+  	text-transform: uppercase;
+  	margin-top: 150px;
+  	margin-right: 20px;
+  }
+.btn-outline-success{
+	color: beige;
+	justify-content: center;
+	border-color: beige;
+}
+.btn-outline-success:hover {
+	border-color:beige; 
+	background-color: beige;
+	background-image: url(gaugan_output.jpg);
+}*/
+/*.btn-xl{
+	padding: 1rem 2rem;
+}*/
+
+
+/*.container {
+  margin-top: 300px;
+  text-align: center;
+}*/
+
+/*video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}*/
